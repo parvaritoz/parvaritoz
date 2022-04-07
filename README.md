@@ -1,7 +1,7 @@
 ### Hi there, my name is Reza Parvar👋
 :books:  I'm currently studying to M.Sc.Eng in Interaction Technology and Design
 
-🌱 I’m currently learning implement game using Unity, Next.js and Python. 
+🌱 I’m currently learning game development using Unity. Also Next.js and Python. 
  
 :mag_right: My focus is mainly in frontend development. I think backend development is interesting and want to learn more about it.
 
