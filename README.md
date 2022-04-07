@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/-.Mysql-4479A1?logo=mysql&logoColor=fff">
   <img src="https://img.shields.io/badge/-.PostgreSQL-4169E1?logo=PostgreSQL&logoColor=fff">
   <img src="https://img.shields.io/badge/-.Android%20Studio-3DDC84?logo=Android%20Studio&logoColor=fff">
-  <img src="https://img.shields.io/badge/-.Net-512BD4?logo=.net&logoColor=fff">
 </p>
 
 ### Stats
