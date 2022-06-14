@@ -5,6 +5,8 @@
  
 :mag_right: My focus is mainly in frontend development. I think backend development is interesting and want to learn more about it.
 
+🏆 Likes sports, training and competetitions
+
 📫 Check out my [Portfolio](https://parvaritoz.github.io/Portfolio/) and get in touch if you have any questions.
 
 ### Languages & Frameworks
